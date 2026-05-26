@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasececrypt",
+        "uuid": 7552325,
+        "checksum": "06g19o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
